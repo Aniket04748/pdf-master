@@ -31,11 +31,13 @@ PDF Master is a browser-based PDF management tool that allows users to upload, m
 ---
 
 ## 📂 Project Structure
+'''
 pdf-master/
 │
 ├── index.html
 ├── script.js
 ├── styles.css
+'''
 
 ---
 
